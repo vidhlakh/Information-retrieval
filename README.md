@@ -1,4 +1,4 @@
-# Information-retrieval
+# Information-retrieval Simple Search Engine 
 Instructions to execute index.py
 ---------------------------------
 Execution command: python index.py cran.all index_file
